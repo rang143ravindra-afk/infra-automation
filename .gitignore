@@ -1,0 +1,8 @@
+#Ignore the files
+*.class
+*.gpg
+*.mp4
+*.mpeg
+*.png
+*.pyc
+
